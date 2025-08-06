@@ -18,11 +18,11 @@
 
 ### خطوة 1: شوكة المستودع
 
-انقر على الزر أدناه لتقسيم مستودع EL SAMURAI Bot إلى حساب GitHub الخاص بك:
+انقر على الزر أدناه لتنزيل ملفات EL SAMURAI Bot :
 
 <div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
+  <a href="https://www.mediafire.com/file/y5cq9ykf2jx6p3t/EL_SAMURAI_BOT.zip/file">
+    <img src="https://img.shields.io/badge/Download-Files-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
 
@@ -106,8 +106,8 @@
 1. **استنساخ المستودع:**
 
     ```bash
-    git clone https://github.com/luckytechhub1/LuckyTechHub-Bot.git
-    cd LuckyTechHub-Bot
+    git clone https://github.com/EL-Samurai-Hacking/EL-SAMURAI-BOT
+    cd EL-SAMURAI-BOT
     ```
 
 2. **تثبيت التبعيات:**
@@ -137,22 +137,13 @@
 
 ## 🙌 المساهمات
 
-نرحب بالمساهمات والإصدارات وطلبات الميزات! لا تترددوا في الاطلاع على [issues page](https://github.com/luckytechhub1/LuckyTechHub-Bot/issues).
+نرحب بالمساهمات والإصدارات وطلبات الميزات! لا تترددوا في الاطلاع على قناتنا(https://t.me/samurai_updates).
 
 ---
 
 ## 🌟 أظهر دعمك
-إذا أعجبك هذا المشروع، يرجى إعطائه [⭐️ star on GitHub](https://github.com/luckytechhub1/LuckyTechHub-Bot)!
+إذا أعجبك هذا المشروع، يرجى إعطائه [⭐️ star on GitHub](https://github.com/EL-Samurai-Hacking/EL-SAMURAI-BOT)!
 
-
-## الاعتمادات
-
-- [Lucky218](https://github.com/luckytechhub1)
-- [Baileys](https://github.com/adiwajshing/Baileys)
-- [TechGod143](https://github.com/TechGod143) for pair code
-- [Dgxeon](https://github.com/Dgxeon) for pair code
-
----
 
 ## ⚠️ تحذير هام
 
@@ -175,7 +166,7 @@
 
 ## 📜 إشعار حقوق النشر
 
-جميع الحقوق محفوظة لشركة EL SAMURAI الملك صقر © 2025.
+جميع الحقوق محفوظة EL SAMURAI © 2025.
 
 يحتوي هذا المشروع على شيفرة من مشاريع مفتوحة المصدر متنوعة:
 - Baileys (رخصة معهد ماساتشوستس للتكنولوجيا)
